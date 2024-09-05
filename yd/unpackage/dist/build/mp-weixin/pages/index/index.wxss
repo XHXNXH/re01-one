@@ -1,0 +1,1 @@
+.content{display:flex;align-items:center;margin:40rpx}.input{border-bottom:1px solid yellow;padding:6rpx;flex:1}.box{margin:40rpx;border-bottom:1px solid #ccc;padding:20rpx 0}
